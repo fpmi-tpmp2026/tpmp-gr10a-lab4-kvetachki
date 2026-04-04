@@ -42,6 +42,8 @@ All detailed documentation is published in the Wiki section.
 
 ## Source Code Repository
 
+Source code repository: [kvetachki-code](https://github.com/tatttti/kvetachki-code.git)  
+
 The second repository contains:
 
 - implementation of the console application in C,
@@ -50,8 +52,7 @@ The second repository contains:
 - demonstration of Git workflow (`main`, `dev`, feature branches),
 - Makefile and CI pipeline.
 
-Source code repository:  
-https://github.com/tatttti/kvetachki-code.git
+
 
 ---
 
